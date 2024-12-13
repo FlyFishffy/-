@@ -1,0 +1,11 @@
+  NUMBER: 21
+  NUMBER: 3
+  NUMBER: 6
+  NUMBER: 3
+  MINUS: 3
+  PAREN: 3
+  MULT: 9
+  NUMBER: 2
+  DIV: 4
+  PLUS: 25
+expr: 25

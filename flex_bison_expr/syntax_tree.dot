@@ -1,0 +1,19 @@
+digraph ARG {
+    8 [label="+"];
+    8 -> 0 [label="l"];
+    0 [label="4"];
+    8 -> 7 [label="r"];
+    7 [label="/"];
+    7 -> 5 [label="l"];
+    5 [label="*"];
+    5 -> 1 [label="l"];
+    1 [label="7"];
+    5 -> 4 [label="r"];
+    4 [label="-"];
+    4 -> 2 [label="l"];
+    2 [label="7"];
+    4 -> 3 [label="r"];
+    3 [label="3"];
+    7 -> 6 [label="r"];
+    6 [label="2"];
+}
